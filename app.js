@@ -97,7 +97,7 @@ app.get('/', (req, res) => {
   <body>
     <div class="container">
       <h1>Welcome!</h1>
-      <h2>Enter your name here</h2>
+      <h2>To Contact me Enter your name here</h2>
       <form id="userForm">
         <label for="firstName">First Name:</label>
         <input type="text" id="firstName" name="firstName">
